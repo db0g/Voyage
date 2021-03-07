@@ -10,4 +10,4 @@ Faites une petit tour sur une ***LandingPage*** axé pour une ***agence de voyag
 
 
 
-![article-image-1](C:\Users\Damie\Desktop\_Projects\LandingPage\Voyage\media\article-image-1.jpg)
+![article-image-1](https://github.com/db0g/Voyage/blob/main/media/article-image-1.jpg?raw=true)
