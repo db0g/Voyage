@@ -1,4 +1,4 @@
-![main](Voyage\media\main.jpg)
+![main](https://github.com/db0g/Voyage/blob/main/media/main.jpg)
 
 
 
