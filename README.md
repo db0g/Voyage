@@ -4,7 +4,7 @@
 
 # **BIENVENU**
 
-###### Envi de voyager ? 
+###### Envie de voyager ? 
 
 Faites une petit tour sur une ***LandingPage*** axé pour une ***agence de voyage.***
 
