@@ -6,7 +6,7 @@
 
 ###### Envie de voyager ? 
 
-Faites une petit tour sur une ***LandingPage*** axé pour une ***agence de voyage.***
+Faites unpetit tour sur une ***LandingPage*** axé pour une ***agence de voyage.***
 
 
 
